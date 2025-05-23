@@ -1,7 +1,3 @@
-#########################################################################
-# Em caso de dúvidas, entrar em contato com marcos.trindade@hidrobr.com #
-#########################################################################
-
 import streamlit as st
 import pandas as pd
 import geopandas
