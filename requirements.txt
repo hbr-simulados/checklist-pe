@@ -1,1 +1,14 @@
+# Bibliotecas
 streamlit
+pandas
+geopandas
+folium
+streamlit-folium
+plotly
+openpyxl
+fiona
+shapely
+pyproj
+rtree
+xlrd
+python-dotenv
